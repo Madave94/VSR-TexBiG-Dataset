@@ -1,0 +1,6 @@
+[submodule "demo/text_layout/common/bert-base-uncased"]
+	path = demo/text_layout/common/bert-base-uncased
+	url = https://huggingface.co/bert-base-uncased
+[submodule "demo/text_layout/common/bert-base-german-uncased"]
+	path = demo/text_layout/common/bert-base-german-uncased
+	url = https://huggingface.co/dbmdz/bert-base-german-uncased
