@@ -27,11 +27,13 @@ Nvidia Tesla V100-PCIE with 16GB VRAM and Ubuntu 18.04.
 
 The dataset can be found under:
 
-TODO URL-here
+https://doi.org10.5281/zenodo.6885144
 
-Since the models requires additonal text from the document pages some OCR data are available (generated with Tesseract). These data are far from perfect, but they allow training of the model. They are also included in the following link:
+Since the models requires additonal text from the document pages some OCR data are available (generated with Tesseract). These data are far from perfect, but they allow training of the model. 
 
-TODO URL-here
+The final model weights are included here:
+
+https://doi.org/10.5281/zenodo.6885033
 
 ## Install missing models and submodules
 
